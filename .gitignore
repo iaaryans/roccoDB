@@ -1,0 +1,28 @@
+# Node Dependencies
+node_modules/
+
+# C++ Build & Generated Files
+build/
+*.node
+*.lib
+*.exp
+*.obj
+*.pdb
+
+# Local Database & Test Data (Keep user data out!)
+node_db/
+test_profile.jpg
+social_database/
+my_app_data/
+my_database/
+
+# NPM Packed Archives
+*.tgz
+
+# OS System Files
+.DS_Store
+Thumbs.db
+
+# Ignore landing page folder
+landing/
+public/

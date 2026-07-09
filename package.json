@@ -1,0 +1,23 @@
+{
+  "name": "roccodb-iaaryan",
+  "version": "1.0.1",
+  "description": "A high-performance folder-based NoSQL database engine written in C++",
+  "main": "index.js",
+  "scripts": {
+    "install": "npx cmake-js compile",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "database",
+    "cpp",
+    "nosql",
+    "local",
+    "embedded"
+  ],
+  "author": "Aaryan",
+  "license": "ISC",
+  "dependencies": {
+    "cmake-js": "^7.3.0",
+    "node-addon-api": "^8.0.0"
+  }
+}
