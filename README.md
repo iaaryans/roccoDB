@@ -268,3 +268,26 @@ Built by Aaryan.
 ---
 
 If you find a bug or want to contribute, contributions and feedback are welcome.
+
+## Keywords
+
+roccoDB
+NoSQL Database
+Embedded Database
+Database Engine
+Storage Engine
+C++20
+Node.js
+Node API
+N-API
+Native Addon
+Write Ahead Logging
+WAL
+Append Only Storage
+Document Database
+Local Database
+Filesystem Database
+High Performance Database
+JavaScript Database
+Developer Tools
+Database From Scratch
